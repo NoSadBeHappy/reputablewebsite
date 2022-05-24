@@ -2,4 +2,4 @@
 
 Reputable facts:
 
-#1: 60% of pregnancys end in abortion.
+1: 60% of pregnancys end in abortion.
